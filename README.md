@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-<!--    <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />  -->
 </p>
 <p align="center">
   <br>
@@ -33,9 +32,5 @@ Here are some ideas to get you started:
 </h3>
 
 
-
-![Juan Henao's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhenaos&show_icons=true&theme=radical)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdhenaos" alt="jdhenaos" /></a> </p>
+[twitter]: https://twitter.com/JuanHenaoS
+[linkedin]: https://www.linkedin.com/in/juan-david-henao-1714218b/
