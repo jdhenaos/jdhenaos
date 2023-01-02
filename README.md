@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jdhenaos/jdhenaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +14,20 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<code>Connect With me 😊</code><br><br>
+<code>Contact me</code><br><br>
 <a href="https://www.linkedin.com/in/juan-david-henao-1714218b/"><img src="https://img.shields.io/badge/-Juan%20Henao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juan.henao@helmholtz-muenchen.de"><img src="https://img.shields.io/badge/-juan.henao@helmholtzmuenchen.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/JuanHenaoS"><img src="https://img.shields.io/badge/-@JuanHenaoS-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
+<p align="center">
+<code>Programing experience</code><br><br>
+<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+</p><br>
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
