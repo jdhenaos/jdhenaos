@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img height="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
