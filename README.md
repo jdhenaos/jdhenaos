@@ -1,4 +1,13 @@
+<img align="center" alt="Juan's banner"  src="https://github.com/jdhenaos/jdhenaos/blob/main/assets/Modern%20Minimal%20Technology%20Background%20Banner.gif" />
+
+
 <!--
+
+Original gifs extracted from:
+https://www.devangthakkar.com/
+https://dribbble.com/shots/14138307-Abstract-illustration-Statistic
+
+
 **jdhenaos/jdhenaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
