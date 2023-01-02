@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  
+      
+[<img src="https://img.icons8.com/bubbles/100/undefined/twitter-squared.png"/>][twitter]
+[<img src="https://img.icons8.com/clouds/100/000000/youtube.png"/>][Youtube] 
+[<img src="https://img.icons8.com/clouds/100/fa314a/instagram-new--v2.png"/>][Instagram]
+[<img src="https://img.icons8.com/bubbles/100/4a90e2/facebook-new.png" />][Facebook]
+[<img src="https://img.icons8.com/clouds/100/000000/link.png"/>][Portfolio]
+<\p>
+
+<p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
 </p>
 <p align="center">
