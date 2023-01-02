@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 <code>Connect With me 😊</code><br><br>
-<a href="https://www.linkedin.com/in/juan-david-henao-1714218b/"><img src="https://img.shields.io/badge/-Arwaz%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:juan.henao@helmholtz-muenchen.de"><img src="https://img.shields.io/badge/-arwazkhan189@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/JuanHenaoS"><img src="https://img.shields.io/badge/-@arwazkhan189-informational?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-david-henao-1714218b/"><img src="https://img.shields.io/badge/-Juan%20Henao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:juan.henao@helmholtz-muenchen.de"><img src="https://img.shields.io/badge/-juan.henao@helmholtz-muenchen.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/JuanHenaoS"><img src="https://img.shields.io/badge/-@JuanHenaoS-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
 <code><img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
