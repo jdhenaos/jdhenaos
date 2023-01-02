@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <code>Connect With me 😊</code><br><br>
 <a href="https://www.linkedin.com/in/juan-david-henao-1714218b/"><img src="https://img.shields.io/badge/-Juan%20Henao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:juan.henao@helmholtz-muenchen.de"><img src="https://img.shields.io/badge/-juan.henao@helmholtz-muenchen.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:juan.henao@helmholtz-muenchen.de"><img src="https://img.shields.io/badge/-juan.henao@helmholtz&#45muenchen.de-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/JuanHenaoS"><img src="https://img.shields.io/badge/-@JuanHenaoS-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
