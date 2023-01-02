@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/JuanHenaoS"><img src="https://img.shields.io/badge/-@JuanHenaoS-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
-<p align="center">
-<code>Programing experience</code><br><br>
+
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
-</p><br>
+
 
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
