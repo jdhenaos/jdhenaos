@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br>![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=jdhenaos.visitor-badge)
 
-# ![jdhenaos's github stats](https://github-readme-stats.vercel.app/api?username=jdhenaos&theme=omni&show_icons=true)<br>
+# ![Juan David Henaos's github stats](https://github-readme-stats.vercel.app/api?username=jdhenaos&theme=omni&show_icons=true)<br>
 
 **<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />**
 
