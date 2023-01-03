@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <code>Programing experience</code><br><br>
-<img title="Python" alt="Python" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/master/assets/Python-logo.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/Python-logo.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p><br>
 
 <p align="center">
