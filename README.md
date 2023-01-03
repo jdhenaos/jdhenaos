@@ -31,11 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <code>Programing experience</code><br><br>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://gitlab.com/" title="GitLab"><img src="icons/gitlab.png" /></a>
+<img title="Python" alt="Python" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/master/assets/Python-logo.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p><br>
 
 <p align="center">
