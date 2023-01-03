@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 <p align="center">
 <code>Programing experience</code><br><br>
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/Python-logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="R" alt="R" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/R_logo.svg.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Java" alt="Java" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/java_logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Bash" alt="Bash" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/bash_logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Github" alt="Github" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/github-logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Gitlab" alt="Gitlab" src="https://raw.githubusercontent.com/jdhenaos/jdhenaos/main/assets/gitlab_logo.png" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 <p align="center">
