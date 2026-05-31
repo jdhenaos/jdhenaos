@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 <code>Contact me</code><br><br>
-<a href="https://www.linkedin.com/in/juan-david-henao-1714218b/"><img src="https://img.shields.io/badge/-Juan%20Henao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/juan-henao-1714218b/"><img src="https://img.shields.io/badge/-Juan%20Henao-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:juanhenao.sanchez@gmail.com"><img src="https://img.shields.io/badge/-juanhenao.sanchez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://bsky.app/profile/jhsanchez.bsky.social"><img src="https://img.shields.io/badge/-@JuanHenaoS-informational?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://bsky.app/profile/jhsanchez.bsky.social"><img src="https://img.shields.io/badge/-@jhsanchez.bsky.social-informational?style=flat&logo=Twitter&logoColor=white"/></a>
 </p><br>
 
 <p align="center">
@@ -40,19 +40,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdhenaos&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-</p>
-<p align="center">
   <br>
  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jdhenaos&theme=blue-green" />
-  <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdhenaos&show_icons=true&theme=blue-green&line_height=21"/>
-    <br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=jdhenaos&theme=dracula" alt="Juan Henaos's github trophy"/>
 
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/jdhenaos/count.svg" />
-</h3>
+
+
+
 
 
